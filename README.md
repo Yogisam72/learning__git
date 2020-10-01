@@ -1,2 +1,2 @@
 # learning__git
-Basic self learning og github
+Basic self learning on github
